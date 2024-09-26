@@ -1,0 +1,7 @@
+Current:
+-Finish Data Entry
+-Add manual data manipulations (Combining two names, adding a fake spotted, etc.)
+-Create data visualizations with Pandas for the top people as well as a person's spottings over time
+
+Eventual Features List:
+-Count Reactions to each spotted to get emotional damage 
